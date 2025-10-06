@@ -10,18 +10,8 @@ The project includes:
 - ✅ A trained **TensorFlow/Keras model**  
 - ✅ An interactive **Tkinter desktop GUI**  
 - ✅ A **Streamlit Web App** for deployment  
-- ✅ Automatic **PDF report generation** with recycling details  
-
----
-
-## 📸 Demo
-
-### 🔹 Streamlit Web App
-![Streamlit Demo](assets/streamlit_demo.png)
-
-### 🔹 Desktop GUI
-![GUI Demo](assets/gui_demo.png)
-
+- ✅ Automatic **PDF report generation** with recycling details
+  
 ---
 
 ## 🚀 Features
@@ -102,4 +92,5 @@ MIT License © 2025 Rushikesh Kadam
 
 If you want, I can also create an `assets/` folder and a curated `requirements.txt` tuned for Streamlit Cloud deployment.
 🏙 Smart cities for automated waste sorting
+
 
