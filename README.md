@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # EcoSort-AI
 Garbage Material Classification
 =======
@@ -102,3 +102,4 @@ MIT License © 2025 Rushikesh Kadam
 
 If you want, I can also create an `assets/` folder and a curated `requirements.txt` tuned for Streamlit Cloud deployment.
 🏙 Smart cities for automated waste sorting
+
